@@ -14,12 +14,12 @@ This project is currently under development.
 * [x] Created the initial Flask application
 * [x] Added an HTML template
 * [x] Successfully ran the application locally
-- [x] Installed Flask-SQLAlchemy, Flask-WTF and email-validator
-- [x] Created the secure User database model
-- [x] Added Scrypt password-hashing methods
-- [x] Added user roles and account-lockout fields
-- [x] Connected SQLite to the Flask application
-- [x] Initialised the local user database
+* [x] Installed Flask-SQLAlchemy, Flask-WTF and email-validator
+* [x] Created the secure User database model
+* [x] Added Scrypt password-hashing methods
+* [x] Added user roles and account-lockout fields
+* [x] Connected SQLite to the Flask application
+* [x] Initialised the local user database
 
 
 ### Planned Security Features
